@@ -1,4 +1,4 @@
-!pip install langchain_gigachat
+pip install langchain_gigachat
 
 import streamlit as st
 
