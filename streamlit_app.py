@@ -1,3 +1,5 @@
+!pip install langchain_gigachat
+
 import streamlit as st
 
 from langchain_gigachat.embeddings.gigachat import GigaChatEmbeddings
